@@ -1,0 +1,16 @@
+
+.carousel-inner img{
+    display: flex;
+    flex-wrap: wrap;
+}
+body{
+    background: linear-gradient(245.59deg, #cfded2 0%, #dee3df 28.53%, #efe8e8 75.52%);
+}
+body a {
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+}
+body a li a {
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
